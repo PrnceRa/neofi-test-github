@@ -33,11 +33,10 @@ const Body = (props) => {
               type="text"
               id="price"
               placeholder="0.00"
-              autoFocus
               style={{
                 backgroundColor: "#0B0819",
               }}
-              value={props.value}
+              value={props.value ? props.value : ''}
               onChange={(e)=>{setNumber(+e.target.value/props.price);props.setValue(e.target.value)}}
             />
             <button>{currency}</button>

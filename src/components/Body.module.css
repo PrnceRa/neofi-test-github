@@ -6,6 +6,7 @@
   flex-direction: column;
   position: relative;
   margin-top: 5em;
+  zoom: 75%;
 }
 
 .icon {
