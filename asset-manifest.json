@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/neofi-test-github/static/css/main.e5d5289b.css",
+    "main.css": "/neofi-test-github/static/css/main.eea35d15.css",
     "main.js": "/neofi-test-github/static/js/main.18e1f3a4.js",
     "static/js/787.ca3b87ab.chunk.js": "/neofi-test-github/static/js/787.ca3b87ab.chunk.js",
     "static/media/bitcoin.svg": "/neofi-test-github/static/media/bitcoin.819819e3e56d6bb03f0e2af3be23a3de.svg",
@@ -15,12 +15,12 @@
     "static/media/search.svg": "/neofi-test-github/static/media/search.3b41f4cea01da25561ab.svg",
     "static/media/tick.svg": "/neofi-test-github/static/media/tick.2dfa05e42cff3a77a446.svg",
     "static/media/arrow.svg": "/neofi-test-github/static/media/arrow.41185ca389dbb67d551e.svg",
-    "main.e5d5289b.css.map": "/neofi-test-github/static/css/main.e5d5289b.css.map",
+    "main.eea35d15.css.map": "/neofi-test-github/static/css/main.eea35d15.css.map",
     "main.18e1f3a4.js.map": "/neofi-test-github/static/js/main.18e1f3a4.js.map",
     "787.ca3b87ab.chunk.js.map": "/neofi-test-github/static/js/787.ca3b87ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5d5289b.css",
+    "static/css/main.eea35d15.css",
     "static/js/main.18e1f3a4.js"
   ]
 }
