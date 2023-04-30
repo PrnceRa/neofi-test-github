@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/neofi-test-github/static/css/main.e5d5289b.css",
+    "main.js": "/neofi-test-github/static/js/main.18e1f3a4.js",
+    "static/js/787.ca3b87ab.chunk.js": "/neofi-test-github/static/js/787.ca3b87ab.chunk.js",
+    "static/media/bitcoin.svg": "/neofi-test-github/static/media/bitcoin.819819e3e56d6bb03f0e2af3be23a3de.svg",
+    "static/media/solana.svg": "/neofi-test-github/static/media/solana.1f62d14fd5dac5f9c84146b6588917d2.svg",
+    "static/media/ethereum.svg": "/neofi-test-github/static/media/ethereum.f4cd92cb180c5b7ac7744cce6bfc48cf.svg",
+    "static/media/xrp.svg": "/neofi-test-github/static/media/xrp.cf7464c52c02d6395bf41d7597b2e25a.svg",
+    "static/media/matic.svg": "/neofi-test-github/static/media/matic.da4a66fa7992d5a96a192b18e158d7f7.svg",
+    "static/media/binance.svg": "/neofi-test-github/static/media/binance.ac1a35e06bd982c6cb6f2ddbfbc401a6.svg",
+    "static/media/logo.svg": "/neofi-test-github/static/media/logo.f9e225d1275dcfa8638c7e9e80637bd7.svg",
+    "index.html": "/neofi-test-github/index.html",
+    "static/media/cross.svg": "/neofi-test-github/static/media/cross.9e1f50f600933146ae712aa7d4ca8a8e.svg",
+    "static/media/search.svg": "/neofi-test-github/static/media/search.3b41f4cea01da25561ab.svg",
+    "static/media/tick.svg": "/neofi-test-github/static/media/tick.2dfa05e42cff3a77a446.svg",
+    "static/media/arrow.svg": "/neofi-test-github/static/media/arrow.41185ca389dbb67d551e.svg",
+    "main.e5d5289b.css.map": "/neofi-test-github/static/css/main.e5d5289b.css.map",
+    "main.18e1f3a4.js.map": "/neofi-test-github/static/js/main.18e1f3a4.js.map",
+    "787.ca3b87ab.chunk.js.map": "/neofi-test-github/static/js/787.ca3b87ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5d5289b.css",
+    "static/js/main.18e1f3a4.js"
+  ]
+}
