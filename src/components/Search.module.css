@@ -1,0 +1,84 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  z-index: 1;
+}
+
+.card {
+  width: 27rem;
+  background-color: #0b0819;
+  float: none;
+  height: 30rem;
+  position: absolute;
+  border-radius: 30px;
+  padding: 5px 20px;
+  border: 0.5px solid #1c1731;
+  border-bottom: 0.5px solid transparent;
+  border-left: 0.5px solid transparent;
+  border-right: 0.5px solid transparent;
+  top: 0;
+  margin-top: 16em;
+}
+
+.card input {
+  width: 100%;
+  border: 1px solid rgba(110, 86, 248, 0.25);
+  border-radius: 30px;
+  background-color: #181627;
+  background-image: url(../assets/search.svg);
+  background-repeat: no-repeat;
+  background-position: 20px center;
+  color: #d2d2d2;
+  font-size: 18px;
+  padding: 15px;
+  padding-left: 50px;
+  margin-top: 1em;
+}
+
+.card ul {
+  margin: 20px 0;
+  padding: 0 10px;
+  gap: 2em;
+  overflow-y: overlay;
+  height: 70%;
+}
+
+.card li {
+  display: flex;
+  color: #d2d2d2;
+  gap: 1em;
+  cursor: pointer;
+}
+
+.card img {
+  padding-left: 20px;
+}
+
+.card li.select {
+  background-color: #1b192d;
+  background-image: url(../assets/tick.svg);
+  background-repeat: no-repeat;
+  background-position: 95% center;
+  font-weight: 700;
+}
+
+.card li:hover {
+  background-color: #1b192d;
+  font-weight: 700;
+}
+
+.cross {
+  display: flex;
+  justify-content: end;
+  padding-top: 0.5em;
+}
+
+.cross img {
+  padding: 5px 5px;
+  font-size: 15px;
+  right: 0;
+  background-color: #1c1731;
+  cursor: pointer;
+}
